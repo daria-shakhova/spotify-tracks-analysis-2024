@@ -1,6 +1,7 @@
 # Spotify Top Tracks 2024: Cross-Platform Analysis & Radio Bias Study
 
 **Comprehensive analysis of music streaming metrics** revealing platform-specific patterns and statistically significant content-based biases in radio programming.
+You can explore my Python code via the [Colab link](https://colab.research.google.com/drive/1TPeqFPINMvV5FcG0K3GWMPEQDb8Yj9le?usp=sharing).
 
 ## 📊 Project Overview
 
